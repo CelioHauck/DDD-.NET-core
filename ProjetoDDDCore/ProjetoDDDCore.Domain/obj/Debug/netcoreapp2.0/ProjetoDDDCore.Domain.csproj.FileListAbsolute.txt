@@ -1,0 +1,16 @@
+C:\Users\Hauck\documents\visual studio 2017\Projects\ProjetoDDDCore\ProjetoDDDCore.Domain\bin\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.deps.json
+C:\Users\Hauck\documents\visual studio 2017\Projects\ProjetoDDDCore\ProjetoDDDCore.Domain\bin\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.dll
+C:\Users\Hauck\documents\visual studio 2017\Projects\ProjetoDDDCore\ProjetoDDDCore.Domain\bin\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.pdb
+C:\Users\Hauck\documents\visual studio 2017\Projects\ProjetoDDDCore\ProjetoDDDCore.Domain\obj\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hauck\documents\visual studio 2017\Projects\ProjetoDDDCore\ProjetoDDDCore.Domain\obj\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.AssemblyInfoInputs.cache
+C:\Users\Hauck\documents\visual studio 2017\Projects\ProjetoDDDCore\ProjetoDDDCore.Domain\obj\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.AssemblyInfo.cs
+C:\Users\Hauck\documents\visual studio 2017\Projects\ProjetoDDDCore\ProjetoDDDCore.Domain\obj\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.dll
+C:\Users\Hauck\documents\visual studio 2017\Projects\ProjetoDDDCore\ProjetoDDDCore.Domain\obj\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.pdb
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\dddcore\ProjetoDDDCore\ProjetoDDDCore.Domain\bin\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.deps.json
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\dddcore\ProjetoDDDCore\ProjetoDDDCore.Domain\bin\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.dll
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\dddcore\ProjetoDDDCore\ProjetoDDDCore.Domain\bin\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.pdb
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\dddcore\ProjetoDDDCore\ProjetoDDDCore.Domain\obj\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\dddcore\ProjetoDDDCore\ProjetoDDDCore.Domain\obj\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.AssemblyInfoInputs.cache
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\dddcore\ProjetoDDDCore\ProjetoDDDCore.Domain\obj\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.AssemblyInfo.cs
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\dddcore\ProjetoDDDCore\ProjetoDDDCore.Domain\obj\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.dll
+C:\Users\Hauck\Documents\Visual Studio 2017\Projects\dddcore\ProjetoDDDCore\ProjetoDDDCore.Domain\obj\Debug\netcoreapp2.0\ProjetoDDDCore.Domain.pdb

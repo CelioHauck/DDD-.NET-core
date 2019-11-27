@@ -1,0 +1,61 @@
+<div class="container">
+    <fieldset>
+        <legend class="legend">Listar clientes</legend>
+        <div class="container">
+            <div class="row">
+                <div class="btn-persistir">
+                    <button [routerLink]="['/cadastrar']" class="btn btn-default">Cadastrar cliente</button>
+                </div>
+            </div>
+            <table class="table table-hover">
+                <thead>
+                    <th>Nome</th>
+                    <th>Sobrenome</th>
+                    <th>Email</th>
+                    <th>Ações</th>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let cliente of clientes">
+                        <td>{{cliente.nome}} </td>
+                        <td>{{cliente.sobreNome}}
+                            <td>{{cliente.email}}</td>
+                            <td>
+                                <button (click)="deletar(cliente.clienteId)"><i class="fa fa-trash"></i></button>
+                                <button [routerLink]="['/editar',cliente.clienteId]"><i class="fa fa-edit"></i></button>
+                            </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </fieldset>
+
+</div>
+<div class="container">
+    <fieldset>
+        <legend class="legend">Listar clientes especiais</legend>
+        <div class="container">
+            <table class="table table-hover">
+                <thead>
+                    <th>Nome</th>
+                    <th>Sobrenome</th>
+                    <th>Email</th>
+                    <th>Ações</th>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let cliente of clientesEspeciais">
+                        <td>{{cliente.nome}} </td>
+                        <td>{{cliente.sobreNome}}
+                            <td>{{cliente.email}}</td>
+                            <td>
+                                <button (click)="deletar(cliente.clienteId)"><i class="fa fa-trash"></i></button>
+                                <button [routerLink]="['/editar',cliente.clienteId]"><i class="fa fa-edit"></i></button>
+                            </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </fieldset>
+
+</div>

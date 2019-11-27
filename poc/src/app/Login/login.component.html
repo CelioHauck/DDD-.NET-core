@@ -1,0 +1,24 @@
+<div class="container">
+    <div class="row">
+        <div class="offset-md-4 col-md-4">
+            <label class="control-label" for="nome">Usuario:</label>
+            <input type="text" class="form-control" id="usuario" [(ngModel)]="usuario.nome" placeholder="Usuário">
+        </div>
+    </div>
+    <div class="row">
+        <div class=" offset-md-4 col-md-4">
+            <label class="control-label" for="email">Senha:</label>
+            <input type="password" class="form-control" [(ngModel)]="usuario.senha" id="senha" placeholder="Senha">
+        </div>
+    </div>
+    <div class="row">
+        <div class="offset-md-4 col-md-4 btn-p">
+            <button (click)="logar()" class="btn btn-default">Logar</button>
+        </div>
+    </div>
+    <div [hidden]="desabilitarAlert" class="row">
+        <div class="offset-md-3 col-md-6 btn-p alert alert-danger" role="alert">
+            Usuario e/ou senha incorretos
+        </div>
+    </div>
+</div>

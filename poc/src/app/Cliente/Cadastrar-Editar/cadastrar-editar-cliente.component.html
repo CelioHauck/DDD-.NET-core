@@ -1,0 +1,33 @@
+<div class="container">
+    <fieldset>
+        <legend class="legend">{{titulo}}</legend>
+        <div class="row">
+            <div class="offset-md-4 col-md-4">
+                <label class="control-label" for="nome">Nome:</label>
+                <input type="text" class="form-control" id="nome" [(ngModel)]="cliente.nome" placeholder="Digite seu nome">
+            </div>
+        </div>
+        <div class="row">
+            <div class="offset-md-4 col-md-4">
+                <label class="control-label" for="nome">Sobrenome:</label>
+                <input type="text" class="form-control" [(ngModel)]="cliente.sobreNome" id="sobrenome" placeholder="Digite seu sobrenome">
+            </div>
+        </div>
+        <div class="row">
+            <div class=" offset-md-4 col-md-4">
+                <label class="control-label" for="email">Email:</label>
+                <input type="text" class="form-control" [(ngModel)]="cliente.email" id="email" placeholder="Digite seu email">
+            </div>
+        </div>
+        <div class="row">
+            <div class="offset-md-4 col-md-2 btn-p">
+                <button (click)="persistir()" class="btn btn-default">{{btn_persistir}}</button>
+            </div>
+            <div class="col-md-2 btn-p">
+                <button (click)="voltar()" class="btn btn-default">Cancelar</button>
+            </div>
+        </div>
+
+    </fieldset>
+
+</div>
